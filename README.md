@@ -7,3 +7,4 @@
 以下源文件粘贴到 [windmark](https://windmark.pro) 的编辑器中即可预览和录制，详细的说明可以[阅读手册](http://doc.windmark.top/cn/)：
 
 - 《云服务器都99一年了，除了买来吃灰，你还能用来装这些免费云软件》 [视频](https://www.bilibili.com/video/BV1kP4y1W7rg/)  [源文件](./99vps.windmark.md)
+- 《微信里边如何登入Server酱》 [视频](https://www.bilibili.com/video/BV1yg41157XC/)  [源文件](./sctguide.windmark.md)
