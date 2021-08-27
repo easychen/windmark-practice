@@ -8,6 +8,7 @@
 
 |标题|文章|视频|源文件|
 |-|-|-|-|
+|《方糖软件开箱：文章多平台同步神器 WechatSync》|-|[视频](https://www.bilibili.com/video/BV1Db4y1m7WN/) |[源文件](./wechatsync.windmark.md)|
 |《WordPress博客评论微信通知插件》|-|[视频](https://www.bilibili.com/video/BV11P4y1p7be/) |[源文件](./wordpress-serverchan.windmark.md)|
 |《如何在云平台购买服务器》（带鼠标动画效果）|-|[视频](https://www.bilibili.com/video/BV1kU4y1j73Q/) |[源文件](./buyvps.windmark.md)|
 |《Mac软件买多了比Mac都贵，这些免费软件可以帮你省一点》|[文章](https://01.ftqq.com/2021/08/21/mac-free-software/)|[视频](https://www.bilibili.com/video/BV1RL411b7o9) |[源文件](./macsoft.windmark.md)|
